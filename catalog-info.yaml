@@ -27,7 +27,7 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:techdocs
 spec:
-  type: website
+  type: service
   lifecycle: experimental
   owner: guests
   system: examples
